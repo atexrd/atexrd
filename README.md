@@ -1,4 +1,4 @@
-![MasterHead](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d98ceddd-228a-439b-a6f1-3266a6be0e2e/dectbcn-99a7c5c9-1030-4013-a32b-344c1c2f33e4.png/v1/fill/w_1280,h_377,q_80,strp/anime_banner_black_and_white_by_nenexhanako_dectbcn-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Mzc3IiwicGF0aCI6IlwvZlwvZDk4Y2VkZGQtMjI4YS00MzliLWE2ZjEtMzI2NmE2YmUwZTJlXC9kZWN0YmNuLTk5YTdjNWM5LTEwMzAtNDAxMy1hMzJiLTM0NGMxYzJmMzNlNC5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.7RDbYqmQjUW5jz7sWBWxWvEfsb3QAR3_Qn-8d3O6Ax4)
+![MasterHead](https://media.discordapp.net/attachments/726126595420717067/1042767170398076978/unknown.png?width=768&height=306)
 
 
 <h1 align="center">Hi 👋, I'm ate</h1>
