@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atexrd&label=Profile%20views&color=0e75b6&style=flat" alt="atexrd" /> </p>
 
-- 🔭 I’m currently working on **Academy Discord Bot**
+- 🔭 I’m currently working on **Syrix Discord Bot**
 
 - 💬 Ask me about **JavaScript, Discord.JS, C++, C#**
 
