@@ -1,4 +1,4 @@
-![MasterHead](https://media.discordapp.net/attachments/726126595420717067/1042767170398076978/unknown.png?width=768&height=306)
+![MasterHead](https://media.discordapp.net/attachments/726126595420717067/1042776994749878302/FD034883-9C11-43D8-93A9-3D272B4737CB.png?width=761&height=305)
 
 
 <h1 align="center">Hi 👋, I'm ate</h1>
